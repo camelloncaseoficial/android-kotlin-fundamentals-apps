@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/drawable-v24/ic_broken_image.xml" value="0.2574074074074074" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/layout/fragment_detail.xml" value="0.23097826086956522" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/layout/fragment_overview.xml" value="0.23097826086956522" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/layout/grid_view_item.xml" value="0.23097826086956522" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/MarsRealEstate-Starter/app/src/main/res/menu/overflow_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/android-kotlin-fundamentals-apps/MarsRealEstate/app/src/main/res/drawable-v24/ic_connection_error.xml" value="0.25555555555555554" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/android-kotlin-fundamentals-apps/MarsRealEstate/app/src/main/res/layout/fragment_detail.xml" value="0.22871376811594202" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/android-kotlin-fundamentals-apps/MarsRealEstate/app/src/main/res/layout/fragment_overview.xml" value="0.22871376811594202" />
+        <entry key="..\:/_Code/Android/_kotlin/Android_Kotlin_Fundamentals/android-kotlin-fundamentals-apps/MarsRealEstate/app/src/main/res/layout/grid_view_item.xml" value="0.22871376811594202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
